@@ -1,0 +1,6 @@
+{
+  "name": "ChefAI - Generator Inteligent de Rețete",
+  "description": "Generează rețete culinare detaliate cu pași, cantități și fotografii delicioase folosind Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
